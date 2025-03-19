@@ -47,8 +47,8 @@
 1. 克隆仓库或下载项目文件：
 
 ```bash
-git clone https://github.com/your-username/image-classification-app.git
-cd image-classification-app
+git clone https://github.com/UPUPUPX/IMG-CLASS.git
+cd IMG-CLASS
 ```
 
 2. 创建并激活虚拟环境（推荐）：
